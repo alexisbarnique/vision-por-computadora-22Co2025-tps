@@ -1,4 +1,4 @@
-# Como correr el repo
+# Instrucciones y requerimientos
 
 ```
 cd carpeta/del/repo
@@ -8,3 +8,4 @@ pip3 install -r requirements.txt
 ```
 
 Ir a la notebook principal y correr todo (requiere instalar ipykernel)
+Cada TP estará separado en una carpeta con los recursos necesarios, donde estará el notebook correspondiente.
