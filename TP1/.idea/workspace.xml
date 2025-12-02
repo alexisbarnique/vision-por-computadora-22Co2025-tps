@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87ec8d36-cddf-4c40-8b8d-15520f304234" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCI_TP1_Co22.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagenes/img1_tp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagenes/img2_tp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagenes/segmentacion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagenes/white_patch/test_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagenes/white_patch/test_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagenes/white_patch/test_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagenes/white_patch/wp_blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagenes/white_patch/wp_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagenes/white_patch/wp_green2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagenes/white_patch/wp_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imagenes/white_patch/wp_red2.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="36GmCM2AnzMb8T1n0Q7CyTAceIO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/alexisbarnique/CEIA/Bimestre 3/Visión por computadora I/vision-por-computadora-22Co2025-tps/TP1"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87ec8d36-cddf-4c40-8b8d-15520f304234" name="Changes" comment="" />
+      <created>1764641153378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764641153378</updated>
+    </task>
+    <servers />
+  </component>
+</project>
