@@ -4,9 +4,9 @@ Cada TP estará separado en una carpeta con los recursos necesarios, incluyendo 
 
 # Integrantes:
 
-Barniquez Piñero, Alexis Geraldine
-Paniagua, Daniel Gerardo
-Salamone Castro, Brian Adriano
+- Barniquez Piñero, Alexis Geraldine
+- Paniagua, Daniel Gerardo
+- Salamone Castro, Brian Adriano
 
 
 # Instrucciones y requerimientos
